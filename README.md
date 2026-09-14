@@ -8,7 +8,7 @@ Rubén López Cano Quién soy como artísta
 Hernani Villaseñor Ramírez Sonotexto  
 
 ## Software recomendado
-(p5.js)[https://p5js.org/es/]  
+[p5.js](https://p5js.org/es/)  
 Hydra  
 Strudel  
 SuperCollider  
