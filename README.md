@@ -4,11 +4,11 @@ Sesión: Investigación artística en música e imagen con código.
 Fecha: 14 de octubre, 11:00 horas.
 
 ## Bibliografía recomendada
-Rubén López Cano Quién soy como artísta  
-Hernani Villaseñor Ramírez Sonotexto  
+López Cano, Rubén (2024). ¿Quién soy como artista?  
+Villaseñor Ramírez, Hernani (). Sonotexto  
 
 ## Software recomendado
 [p5.js](https://p5js.org/es/)  
-Hydra  
-Strudel  
-SuperCollider  
+[Hydra](https://hydra.ojack.xyz/)  
+[Strudel REPL](https://strudel.cc/)  
+[SuperCollider](https://supercollider.github.io/)  
