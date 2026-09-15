@@ -5,7 +5,7 @@ Imparte: Hernani Villaseñor
 
 Esta plática tratará sobre la aproximación a la investigación artística en música y arte digitales a partir del caso de la creación audiovisual con lenguajes de programación. En esta sesión veremos cómo se programa el sonido y la imagen, cómo se interpreta e improvisa en ensamble y cómo podemos abordar problemas de investigación que surgen en la creación e improvisación de la música y la imagen generadas con código.  
 Fecha: 14 de octubre, 11:00 horas  
-Lugar: Cenidim, Cenart.
+Lugar: Cenidim, Cenart
 
 ## Bibliografía recomendada
 López Cano, Rubén (2024). ¿Quién soy como artista? [Descarga desde el blog](https://rlopezcano.blogspot.com/2024/08/quien-soy-como-artista.html)  
