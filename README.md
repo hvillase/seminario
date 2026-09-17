@@ -1,6 +1,7 @@
 # Seminario Música, Cuerpo y Pensamiento
 
-**Investigación Artística y Práctica del Performance Contemporáneo**  
+## Investigación Artística y Práctica del Performance Contemporáneo
+
 **Sesión**: *Investigación artística en música e imagen con código*  
 **Imparte**: Hernani Villaseñor
 
