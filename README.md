@@ -3,12 +3,12 @@
 ## Investigación Artística y Práctica del Performance Contemporáneo
 
 **Sesión**: *Investigación artística en música e imagen con código*  
-**Imparte**: Hernani Villaseñor
+**Imparte**: Hernani Villaseñor Ramírez  
 
-Esta plática tratará sobre la aproximación a la investigación artística en música y arte digitales a partir del caso de la creación audiovisual con lenguajes de programación. En esta sesión veremos cómo se programa el sonido y la imagen, cómo se interpreta e improvisa en ensamble y cómo podemos abordar problemas de investigación que surgen en la creación e improvisación de la música y la imagen generadas con código.  
+La sesión trata sobre la aproximación a la investigación artística en música y arte digitales a partir del caso de la creación audiovisual con lenguajes de programación. En esta ocasión veremos cómo se programa el sonido y la imagen, cómo se interpreta e improvisa en ensamble y cómo podemos abordar problemas de investigación que surgen en la creación e improvisación de la música y la imagen generadas con código.  
 
 **Fecha**: 14 de octubre de 2026, 11:00 horas  
-**Lugar**: Salón de Usos Múltiples del Cenidim, CENART, CDMX.
+**Lugar**: Salón de Usos Múltiples del CENIDIM, CENART, CDMX.
 
 ## Bibliografía recomendada
 
