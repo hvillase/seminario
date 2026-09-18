@@ -12,7 +12,8 @@ La sesión trata sobre la aproximación a la investigación artística en músic
 
 ## Bibliografía recomendada
 
-- López Cano, Rubén (2024). ¿Quién soy como artista? [Descarga desde el blog](https://rlopezcano.blogspot.com/2024/08/quien-soy-como-artista.html)  
+- López Cano, Rubén (2024). ¿Quién soy como artista? [Descarga desde el blog](https://rlopezcano.blogspot.com/2024/08/quien-soy-como-artista.html)
+- Di Próspero, Carolina (2017). Escrito en el cuerpo. Nuevas performances tecnoartísticas. [Lectura y descarga abierta desde el Journal](https://journals.openedition.org/artelogie/1672)    
 - Villaseñor Ramírez, Hernani (2022). Sonotexto: relación entre práctica artística y desarrollo tecnológico en el live coding [Descarga desde el sitio web](https://www.hernanivillasenor.com/html/sonotexto.html)  
 - Jack, Olivia (et. al) (s.f.) Documentación interactiva de Hydra [Consulta en línea](https://hydra.ojack.xyz/docs/)  
 - Varios autores (s.f.) Strudel Docs [Consulta en línea](https://strudel.cc/workshop/getting-started/)  
