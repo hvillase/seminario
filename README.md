@@ -18,6 +18,8 @@ La sesión trata sobre la aproximación a la investigación artística en músic
 - Jack, Olivia (et. al) (s.f.) Documentación interactiva de Hydra [Consulta en línea](https://hydra.ojack.xyz/docs/)  
 - Varios autores (s.f.) Strudel Docs [Consulta en línea](https://strudel.cc/workshop/getting-started/)  
 - Varios autores (s.f.) Tutoriales p5 [Consulta en línea](https://p5js.org/es/tutorials/)  
+- Temkin, Daniel (2017). Language Without Code: Intentionally Unusable, Uncomputable, or
+Conceptual Programming Languages [Descarga desde el repositorio](https://revistas.ucp.pt/index.php/jsta/article/view/7297)    
 
 ## Software recomendado
 
