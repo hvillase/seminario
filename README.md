@@ -20,6 +20,7 @@ La sesión trata sobre la aproximación a la investigación artística en músic
 - Varios autores (s.f.) Tutoriales p5 [Consulta en línea](https://p5js.org/es/tutorials/)  
 - Temkin, Daniel (2017). Language Without Code: Intentionally Unusable, Uncomputable, or
 Conceptual Programming Languages [Descarga desde el repositorio](https://revistas.ucp.pt/index.php/jsta/article/view/7297)    
+- Cox, Geoff (2015). What does live koding knows? [Descarga del repositorio](https://iclc.toplap.org/2015/meta/82.html)  
 
 ## Software recomendado
 
