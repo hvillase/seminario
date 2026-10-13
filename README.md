@@ -24,8 +24,8 @@ Conceptual Programming Languages [Descarga desde el repositorio](https://revista
 
 ## Software recomendado
 
-[p5.js](https://p5js.org/es/)  
-[Hydra](https://hydra.ojack.xyz/)  
-[Strudel REPL](https://strudel.cc/)  
+[p5.js](https://p5js.org/es/)    
+[Hydra](https://hydra.ojack.xyz/) Sintetizador de video en tiempo real que funciona en el navegador (Olivia Jack, 2018)  
+[Strudel REPL](https://strudel.cc/) Escritura de piezas musicales dinámicas basado en patrones de TidalCycles. (McLean y Ross, 2022)  
 [SuperCollider](https://supercollider.github.io/)  
-[Flok](https://flok.cc/)  
+[Flok](https://flok.cc/) Editor colaborativo P2P para live coding músical y gráfico. (munshkr, 2021)  
